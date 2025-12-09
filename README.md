@@ -37,6 +37,6 @@ This task is built to showcase Encapsulation by designing a class to manage empl
 Here I showcased Polymorphism by developing a set of animal classes which has overriden a method named 'makeSound()' declared in an abstract parent class 'Animal' to make sounds of each animal separately.
 
 ## Task 5
-**Task Name: To-Do Moduled**
+**Task Name: To-Do Module**
 
 Here the Laravel Framework has been used to create the backend API's integrating CORS middleware. Furthermore, Vue.js has been used to create the frontend part of the task integrating Axios to handle the API requests easily and efficiently. MySql RDBMS has been used to create and manage the database and entities.
